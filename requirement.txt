@@ -145,7 +145,7 @@ jellyfish @ file:///C:/b/abs_c5ua9cti7n/croot/jellyfish_1736367467867/work
 Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
 jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
 jmespath @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/jmespath_1729040936778/work
-joblib==1.4.2
+joblib==1.5.3
 json5 @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/json5_1731702258507/work
 jsonpatch @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/jsonpatch_1729054776004/work
 jsonpointer==2.1
